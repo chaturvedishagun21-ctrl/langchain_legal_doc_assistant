@@ -6,12 +6,12 @@ The assistant answers only from the uploaded documents, provides page-number cit
 
 This project uses:
 
--Python
--Streamlit (frontend UI)
--LangChain + OpenAI embeddings
--Qdrant (vector search)
--PDF loaders + text splitters
--GPT-5 for final answers
+- Python
+- Streamlit (frontend UI)
+- LangChain + OpenAI embeddings
+- Qdrant (vector search)
+- PDF loaders + text splitters
+- GPT-5 for final answers
 
 🚀 Features:
 
