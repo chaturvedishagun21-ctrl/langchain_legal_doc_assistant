@@ -41,4 +41,4 @@ Use the Streamlit UI to query your documents using natural language.
 
 🧱 Portable + Easy to Deploy
 
--No complex backend — just Streamlit + Qdrant.
+- No complex backend — just Streamlit + Qdrant.
