@@ -33,11 +33,11 @@ Use the Streamlit UI to query your documents using natural language.
 
 🧠 Fully Local/Cloud Hybrid
 
--Index PDFs locally
+- Index PDFs locally
 
--Store vectors in local Qdrant or Qdrant Cloud
+- Store vectors in local Qdrant or Qdrant Cloud
 
--Query through deployed Streamlit app
+- Query through deployed Streamlit app
 
 🧱 Portable + Easy to Deploy
 
