@@ -26,10 +26,10 @@ Use the Streamlit UI to query your documents using natural language.
 
 📑 Accurate Citations
 
-Every answer includes:
-Page number
-File name
-Snippets from the source pages
+- Every answer includes:
+- Page number
+- File name
+- Snippets from the source pages
 
 🧠 Fully Local/Cloud Hybrid
 
